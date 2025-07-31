@@ -38,17 +38,19 @@ If you only need to run the steps after annotation, start the script with the `y
 
 Each step in the pipeline corresponds to a Python script that saves the data intermediate and can also be run on its own:
 
-| Script               | Description                  | Data |
-| -------------------- | ---------------------------- |-|
-| `get_pages.py`       | Getting disambiguation pages titles | all_pages.txt |
-| `get_contents.py`  | Get disambiguation pages HTML content                         | all_content.txt |
-| `get_links.py`       | Get related pages links from HTML content                    | all_links.txt |
-| `filter1.py`         | Filtering disambiguation pages on disambiguation page titles              | all_filtered1.txt |
-| `get_aspects.py`     | Getting aspects from related pages             | all_aspects.txt |
-| `filter2.py`         | Filtering disambiguation pages on related page aspects            | all_filtered2.txt |
-| `annotations_out.py` | Export data to file for annotation      | all_annotations_out.tsv |
-| `annotations_in.py`  | Import annotation file with selected clues      | all_annotations_in.txt |
-| `create_puzzles.py`  | Creating puzzles             | test_puzzles.txt, dev_puzzles.txt and more|
+## Scripts and Data
+
+| Script               | Data                            | Description                                  |
+| -------------------- | ------------------------------- | -------------------------------------------- |
+| `get_pages.py`       | `all_pages.txt`                 | Getting disambiguation pages titles          |
+| `get_contents.py`    | `all_content.txt`               | Get disambiguation pages HTML content        |
+| `get_links.py`       | `all_links.txt`                 | Get related pages links from HTML content    |
+| `filter1.py`         | `all_filtered1.txt`             | Filter disambiguation pages on page titles   |
+| `get_aspects.py`     | `all_aspects.txt`               | Extract aspects from related pages           |
+| `filter2.py`         | `all_filtered2.txt`             | Filter disambiguation pages on related aspects |
+| `annotations_out.py` | `all_annotations_out.tsv`       | Export data to file for annotation           |
+| `annotations_in.py`  | `all_annotations_in.txt`        | Import annotation file with selected clues   |
+| `create_puzzles.py`  | `test_puzzles.txt`, `dev_puzzles.txt`, … | Creating puzzles                    |
 
 Run any script standalone using:
 
