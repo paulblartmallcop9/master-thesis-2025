@@ -34,7 +34,7 @@ On execution, the script will:
 
 If you only need to run the steps after annotation, start the script with the `y` option. The script will then directly execute the post-annotation steps.
 
-### Individual Scripts
+### Scripts
 
 Each step in the pipeline corresponds to a Python script that saves the data intermediate and can also be run on its own:
 
