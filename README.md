@@ -100,7 +100,7 @@ To execute the human evaluation, run:
 ```bash
 python3 evaluation/human_evaluation.py
 ```
-Make sure to configure the file for the human data and the file for the model data
+Make sure to configure the file for the human data and the file for the model data.
 
         
 
