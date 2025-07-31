@@ -82,3 +82,39 @@ The repository includes three Jupyter notebooks for running experiments with dif
 3. Set the desired source file to import data to use in the experiment.
 4. In each notebook, locate the `# set model` and `# set shot category` comments to manually input your model and shot type (zero-, one-, or three-shot using the predefined functions).
 5. Execute cells sequentially and review results.
+
+## Evaluation
+
+The data can be evaluated using the `human_evaluation.py` file for the human evaluation and the `order_evaluation.py` file for the order evaluation.
+
+### Human evaluation
+Compare human agreement data against model predictions and categorize instances into:
+ - Both correct
+ - Model correct only
+ - Human correct only
+ - Both incorrect
+
+#### Usage
+To execute the human evaluation, run:
+
+```bash
+python3 evaluation/human_evaluation.py
+```
+Make sure to configure the file for the human data and the file for the model data
+
+        
+
+### Order evaluation
+Evaluate model performance across multiple experiment permutations and report:
+ -  Number of correct instances and accuracy per file  
+  -   Best permutation and its accuracy 
+  -   Average accuracy across all permutations  
+  -   Total and overlap accuracy
+
+#### Usage
+To execute the order evaluation, run:
+
+```bash
+python3 evaluation/order_evaluation.py
+```
+Make sure to configure the file for the model data by editing the file name to include the desired model to evaluate.
