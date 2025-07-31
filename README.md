@@ -38,7 +38,7 @@ Each step in the pipeline corresponds to a Python script that saves the data int
 | Script               | Description                  |
 | -------------------- | ---------------------------- |
 | `get_pages.py`       | Getting disambiguation pages titles |
-| `get_conten``ts.py`  | Get disambiguation pages HTML content                         |
+| `get_contents.py`  | Get disambiguation pages HTML content                         |
 | `get_links.py`       | Get related pages links from HTML content                    |
 | `filter1.py`         | Filtering disambiguation pages on disambiguation page titles              |
 | `get_aspects.py`     | Getting aspects from related pages             |
