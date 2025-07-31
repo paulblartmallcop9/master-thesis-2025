@@ -48,7 +48,7 @@ Each step in the pipeline corresponds to a Python script. The scripts save the d
 | `filter2.py`         | `all_filtered2.txt`             | Filter disambiguation pages on related page aspects |
 | `annotations_out.py` | `all_annotations_out.tsv`       | Export data to file for annotation           |
 | `annotations_in.py`  | `all_annotations_in.txt`        | Import annotation file with selected clues   |
-| `create_puzzles.py`  | `test_puzzles.txt`, `dev_puzzles.txt`, … | Creating puzzles                    |
+| `create_puzzles.py`  | `test_puzzles.txt`, `dev_puzzles.txt`, … | Create puzzles                    |
 
 Run any script standalone using:
 
