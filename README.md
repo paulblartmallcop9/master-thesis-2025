@@ -62,9 +62,9 @@ The repository includes three Jupyter notebooks for running experiments with dif
 
 | Notebook                       | Description                          | Requirements                      | Configuration                                              |
 | ------------------------------ | ------------------------------------ | --------------------------------- | ---------------------------------------------------------- |
-| `experiment_api.ipynb`         | Experiments via OpenAI API           | OpenAI API key                    | Modify model (`# set model`), shot (`# set shot category`) |
-| `experiment_huggingface.ipynb` | Experiments via Hugging Face         | Hugging Face access (if required) | Modify model (`# set model`), shot (`# set shot category`) |
-| `experiment_ollama.ipynb`      | Experiments via Ollama local runtime | Pull desired Ollama model locally | Modify model (`# set model`), shot (`# set shot category`) |
+| `experiment_api.ipynb`         | Experiments via API           | API key                    | Modify model (`# set model`), shot (`# set shot category`) |
+| `experiment_huggingface.ipynb` | Experiments via Hugging Face         |  | Modify model (`# set model`), shot (`# set shot category`) |
+| `experiment_ollama.ipynb`      | Experiments via Ollama | Pull desired Ollama model | Modify model (`# set model`), shot (`# set shot category`) |
 
 ### Models
 
