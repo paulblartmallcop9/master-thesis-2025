@@ -60,11 +60,11 @@ python3 pipeline/<script_name.py>
 
 The repository includes three Jupyter notebooks for running experiments with different model providers. Each notebook allows you to manually select model and shot configuration via in-line comments.
 
-| Notebook                       | Description                          | Requirements                      | Configuration                                              |
-| ------------------------------ | ------------------------------------ | --------------------------------- | ---------------------------------------------------------- |
-| `experiment_api.ipynb`         | Experiments via API           | API key                    | Modify model (`# set model`), shot (`# set shot category`) |
-| `experiment_huggingface.ipynb` | Experiments via Hugging Face         |  | Modify model (`# set model`), shot (`# set shot category`) |
-| `experiment_ollama.ipynb`      | Experiments via Ollama | Pull desired Ollama model | Modify model (`# set model`), shot (`# set shot category`) |
+| Notebook                       | Description                          | Requirements                      | 
+| ------------------------------ | ------------------------------------ | --------------------------------- | 
+| `experiment_api.ipynb`         | Experiments via API           | API key                    | 
+| `experiment_huggingface.ipynb` | Experiments via Hugging Face         |  | 
+| `experiment_ollama.ipynb`      | Experiments via Ollama | Pull desired Ollama model |
 
 ### Models
 
