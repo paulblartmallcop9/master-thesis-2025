@@ -1,3 +1,6 @@
+# Master Thesis
+A Dutch LLM Benchmark: Benchmarking large language models on language understanding using language-specific linguistic puzzles
+
 ## Data Pipeline
 
 The entire data pipeline can be run using `run_pipeline.py` for collection, processing, annotation and preparation of the data. Manual annotation can be performed intermediate which is indicated when running the pipeline.
