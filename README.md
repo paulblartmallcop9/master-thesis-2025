@@ -1,5 +1,5 @@
 # Master Thesis
-A Dutch LLM Benchmark: Benchmarking large language models on language understanding using language-specific linguistic puzzles
+A Dutch LLM Benchmark: Benchmarking large language models on language understanding using language-specific linguistic puzzles by Maurice Voors
 
 ## Data Pipeline
 
