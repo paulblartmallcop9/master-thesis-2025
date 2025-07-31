@@ -55,3 +55,29 @@ Run any script standalone using:
 ```bash
 python3 pipeline/<script_name.py>
 ```
+
+## Experiments
+
+The repository includes three Jupyter notebooks for running experiments with different model providers. Each notebook allows you to manually select model and shot configuration via in-line comments.
+
+| Notebook                       | Description                          | Requirements                      | Configuration                                              |
+| ------------------------------ | ------------------------------------ | --------------------------------- | ---------------------------------------------------------- |
+| `experiment_api.ipynb`         | Experiments via OpenAI API           | OpenAI API key                    | Modify model (`# set model`), shot (`# set shot category`) |
+| `experiment_huggingface.ipynb` | Experiments via Hugging Face         | Hugging Face access (if required) | Modify model (`# set model`), shot (`# set shot category`) |
+| `experiment_ollama.ipynb`      | Experiments via Ollama local runtime | Pull desired Ollama model locally | Modify model (`# set model`), shot (`# set shot category`) |
+
+### Models
+
+* **API (large-scale multilingual):** GPT-4o, LLama3.3
+* **Ollama (small-scale multilingual):** Gemma3, Mistral, Llama3.2
+* **Hugging Face (small-scale Dutch-specific):** Fietje 2, Geitje Ultra
+
+### Usage
+
+1. Open the chosen Jupyter Notebook file:
+2. Configure your environment:
+
+   * **API notebook:** Set your `OPENAI_API_KEY` before running cells.
+   * **Ollama notebook:** Run `ollama pull <model_name>` to download models locally.
+3. In each notebook, locate the `# set model` and `# set shot category` comments to choose your model and shot type (zero-, one-, or three-shot).
+4. Execute cells sequentially and review results.
