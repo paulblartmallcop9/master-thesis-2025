@@ -34,10 +34,10 @@ def run_script(script, step=None, total=None):
 
 def run_initial():
     initial_scripts = [
-        #"get_pages.py",
-        #"get_contents.py",
-        #"get_links.py",
-        #"filter1.py",
+        "get_pages.py",
+        "get_contents.py",
+        "get_links.py",
+        "filter1.py",
         "get_aspects.py",
         "filter2.py",
         "annotations_out.py",
