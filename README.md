@@ -80,5 +80,5 @@ The repository includes three Jupyter notebooks for running experiments with dif
    * **API notebook:** Set your `OPENAI_API_KEY` before running cells.
    * **Ollama notebook:** Run `ollama pull <model_name>` to download models locally.
 3. Set the desired source file to import data to use in the experiment.
-4. In each notebook, locate the `# set model` and `# set shot category` comments to choose your model and shot type (zero-, one-, or three-shot).
+4. In each notebook, locate the `# set model` and `# set shot category` comments to manually input your model and shot type (zero-, one-, or three-shot).
 5. Execute cells sequentially and review results.
