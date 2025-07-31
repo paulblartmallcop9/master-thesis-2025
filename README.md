@@ -68,9 +68,9 @@ The repository includes three Jupyter notebooks for running experiments with dif
 
 ### Models
 
-* **API (large-scale multilingual):** GPT-4o, LLama 3.3
-* **Ollama (small-scale multilingual):** Gemma 3, Mistral, Llama 3.2
-* **Hugging Face (small-scale Dutch-specific):** Fietje 2, Geitje Ultra
+* **API** (large-scale multilingual): GPT-4o, LLama 3.3
+* **Ollama** (small-scale multilingual): Gemma 3, Mistral, Llama 3.2
+* **Hugging Face** (small-scale Dutch-specific): Fietje 2, Geitje Ultra
 
 ### Usage
 
