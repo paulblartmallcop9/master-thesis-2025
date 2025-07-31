@@ -3,14 +3,14 @@ A Dutch LLM Benchmark: Benchmarking large language models on language understand
 
 ## Data Pipeline
 
-The entire data pipeline can be run using `run_pipeline.py` for collection, processing, annotation and preparation of the data. Manual annotation can be performed intermediate which is indicated when running the pipeline.
+The entire data pipeline can be run using `pipeline/run_pipeline.py` for collection, processing, annotation and preparation of the data. Manual annotation can be performed intermediate which is indicated when running the pipeline.
 
 ### Usage
 
 To execute the full pipeline, run:
 
 ```bash
-python3 run_pipeline.py
+python3 pipeline/run_pipeline.py
 ```
 
 On execution, the script will:
@@ -53,5 +53,5 @@ Each step in the pipeline corresponds to a Python script that saves the data int
 Run any script standalone using:
 
 ```bash
-python3 <script_name.py>
+python3 pipeline/<script_name.py>
 ```
