@@ -38,7 +38,7 @@ If you only need to run the steps after annotation, start the script with the `y
 
 Each step in the pipeline corresponds to a Python script that saves the data intermediate and can also be run on its own:
 
-| Script               | Data                            | Description                                  |
+| Script               | Output                            | Description                                  |
 | -------------------- | ------------------------------- | -------------------------------------------- |
 | `get_pages.py`       | `all_pages.txt`                 | Get disambiguation pages titles          |
 | `get_contents.py`    | `all_content.txt`               | Get disambiguation pages HTML content        |
