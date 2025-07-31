@@ -1,0 +1,22 @@
+{'answer': 'Echo', 'clue1': 'Een beeldvormingstechniek', 'clue2': 'Een figuur uit de Griekse mythologie', 'clue3': 'Een geluid'}
+{'answer': 'Amazone', 'clue1': 'Een sekspositie', 'clue2': 'Een bos', 'clue3': 'Een volk in de Griekse mythologie'}
+{'answer': 'Imperium', 'clue1': 'Een staat', 'clue2': 'Rome', 'clue3': 'Een taxonomische rang'}
+{'answer': 'Tong', 'clue1': 'Een onderdeel van een gletsjer', 'clue2': 'Een vis', 'clue3': 'Een lichaamsdeel'}
+{'answer': 'Cabine', 'clue1': 'Een toestel voor verticaal transport', 'clue2': 'Een douche', 'clue3': 'Onderdeel van een schip'}
+{'answer': 'Kapen', 'clue1': 'Een vorm van zeeroverij', 'clue2': 'Een gedeelte van de kust', 'clue3': 'Een illegale inbeslagname van een voertuig'}
+{'answer': 'Geslacht', 'clue1': 'Een taxonomische rang', 'clue2': 'Een verwant', 'clue3': 'Mannelijk dan wel vrouwelijk'}
+{'answer': 'Driehoek', 'clue1': 'Een geometrische vorm', 'clue2': 'Een theorie van de overheid', 'clue3': 'Een verhouding'}
+{'answer': 'Stroming', 'clue1': 'Een waterbeweging', 'clue2': 'Een rivier', 'clue3': 'Een groep van personen met dezelfde ideeën'}
+{'answer': 'Banket', 'clue1': 'De benaming voor een gebak', 'clue2': 'Een maaltijd', 'clue3': 'Een term uit de vestingbouwkunde'}
+{'answer': 'Gamma', 'clue1': 'Een elektromagnetische straling', 'clue2': 'Een letter', 'clue3': 'Een winkelketen'}
+{'answer': 'Schroef', 'clue1': 'Een onderdeel van een schip', 'clue2': 'Een bevestigingsmiddel', 'clue3': 'Een gymnastiekoefening'}
+{'answer': 'Kers', 'clue1': 'Een fruitsoort', 'clue2': 'Een houtsoort', 'clue3': 'Een soort frisdrank'}
+{'answer': 'Notenkraker', 'clue1': 'Een balletstuk', 'clue2': 'Een vogel', 'clue3': 'Een huishoudelijk gereedschap'}
+{'answer': 'Immuniteit', 'clue1': 'Een biologisch systeem', 'clue2': 'Een bescherming', 'clue3': 'Een grondstuk'}
+{'answer': 'Station', 'clue1': 'Een stopplaats', 'clue2': 'Een radio-omroep', 'clue3': 'Een ruimtevaartuig'}
+{'answer': 'Eikel', 'clue1': 'Seksuele anatomie', 'clue2': 'Een beledigend woord', 'clue3': 'Een vrucht'}
+{'answer': 'Isolatie', 'clue1': 'Een afscherming', 'clue2': 'Een cel', 'clue3': 'Afgezonderd leven'}
+{'answer': 'Imitatie', 'clue1': 'Een gelijkenis van soorten', 'clue2': 'Een valse kopie', 'clue3': 'Een muziekterm'}
+{'answer': 'Kleed', 'clue1': 'Een bedekking van een vloer', 'clue2': 'Een kledingstuk', 'clue3': 'Een stuk stof'}
+{'answer': 'Zeeman', 'clue1': 'Een winkelketen', 'clue2': 'Een beroep', 'clue3': 'Een schip'}
+{'answer': 'Kraken', 'clue1': 'Een mythisch wezen', 'clue2': 'Openen of inbreken', 'clue3': 'Een soort geluid'}

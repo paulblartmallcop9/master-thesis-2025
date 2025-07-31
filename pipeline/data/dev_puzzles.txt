@@ -1,0 +1,22 @@
+{'prompt': 'Het is een beeldvormingstechniek, een figuur uit de Griekse mythologie, en een geluid', 'answer': 'Echo'}
+{'prompt': 'Het is een sekspositie, een bos, en een volk in de Griekse mythologie', 'answer': 'Amazone'}
+{'prompt': 'Het is een staat, rome, en een taxonomische rang', 'answer': 'Imperium'}
+{'prompt': 'Het is een onderdeel van een gletsjer, een vis, en een lichaamsdeel', 'answer': 'Tong'}
+{'prompt': 'Het is een toestel voor verticaal transport, een douche, en onderdeel van een schip', 'answer': 'Cabine'}
+{'prompt': 'Het is een vorm van zeeroverij, een gedeelte van de kust, en een illegale inbeslagname van een voertuig', 'answer': 'Kapen'}
+{'prompt': 'Het is een taxonomische rang, een verwant, en mannelijk dan wel vrouwelijk', 'answer': 'Geslacht'}
+{'prompt': 'Het is een geometrische vorm, een theorie van de overheid, en een verhouding', 'answer': 'Driehoek'}
+{'prompt': 'Het is een waterbeweging, een rivier, en een groep van personen met dezelfde ideeën', 'answer': 'Stroming'}
+{'prompt': 'Het is de benaming voor een gebak, een maaltijd, en een term uit de vestingbouwkunde', 'answer': 'Banket'}
+{'prompt': 'Het is een elektromagnetische straling, een letter, en een winkelketen', 'answer': 'Gamma'}
+{'prompt': 'Het is een onderdeel van een schip, een bevestigingsmiddel, en een gymnastiekoefening', 'answer': 'Schroef'}
+{'prompt': 'Het is een fruitsoort, een houtsoort, en een soort frisdrank', 'answer': 'Kers'}
+{'prompt': 'Het is een balletstuk, een vogel, en een huishoudelijk gereedschap', 'answer': 'Notenkraker'}
+{'prompt': 'Het is een biologisch systeem, een bescherming, en een grondstuk', 'answer': 'Immuniteit'}
+{'prompt': 'Het is een stopplaats, een radio-omroep, en een ruimtevaartuig', 'answer': 'Station'}
+{'prompt': 'Het is seksuele anatomie, een beledigend woord, en een vrucht', 'answer': 'Eikel'}
+{'prompt': 'Het is een afscherming, een cel, en afgezonderd leven', 'answer': 'Isolatie'}
+{'prompt': 'Het is een gelijkenis van soorten, een valse kopie, en een muziekterm', 'answer': 'Imitatie'}
+{'prompt': 'Het is een bedekking van een vloer, een kledingstuk, en een stuk stof', 'answer': 'Kleed'}
+{'prompt': 'Het is een winkelketen, een beroep, en een schip', 'answer': 'Zeeman'}
+{'prompt': 'Het is een mythisch wezen, openen of inbreken, en een soort geluid', 'answer': 'Kraken'}

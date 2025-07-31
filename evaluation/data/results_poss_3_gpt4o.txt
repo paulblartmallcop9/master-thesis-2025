@@ -1,0 +1,200 @@
+{"prompt": "Het is een type wolken, een deel van het oor, en een gereedschap", "answer": "aambeeld", "result": null}
+{"prompt": "Het is een moord, een vorm van terrorisme, en een verontreiniging", "answer": "aanslag", "result": null}
+{"prompt": "Het is een deel van evolutie, een omzetting van een werk, en een functie van het oog", "answer": "adaptatie", "result": null}
+{"prompt": "Het is een verschijnsel in gesteente, een deel van het hart en vaatstelsel, en een verschijnsel in planten", "answer": "ader", "result": null}
+{"prompt": "Het is een alcoholische drank, een Nederlands voetbaltrainer, en een beroep", "answer": "advocaat", "result": null}
+{"prompt": "Het is een biometrische identificatie, de kunst van het vermenigvuldigen van geschriften, en een overblijfsel", "answer": "afdruk", "result": null}
+{"prompt": "Het is het proces om een bestuurder gedwongen uit zijn functie te ontheffen, de depositie van deeltjes onder invloed van zwaartekracht, en een strafrecht term", "answer": "afzetting", "result": null}
+{"prompt": "Het is een politie term, een persoon die heimelijk informatie vergaart, en een autonoom computerprogramma", "answer": "agent", "result": null}
+{"prompt": "Het is een afspraak tussen minimaal twee natuurlijke personen of rechtspersonen, een samenklank van drie of meer tonen, en een internationale overeenkomst", "answer": "akkoord", "result": null}
+{"prompt": "Het is een kleur, een fossiele hars, en een vrouwelijke voornaam", "answer": "amber", "result": null}
+{"prompt": "Het is een paaltje, jenever, en een bierglas", "answer": "amsterdammertje", "result": null}
+{"prompt": "Het is een wapendier, een roofvogel, en een gedeelte van een stuk gereedschap", "answer": "arend", "result": null}
+{"prompt": "Het is een onderdeel van regelgeving, een woordsoort, en een product", "answer": "artikel", "result": null}
+{"prompt": "Het is een onderdeel van het hart, een bouwwerk, en een onderdeel van een school", "answer": "atrium", "result": null}
+{"prompt": "Het is een boom, een vrucht, en een corrupt land", "answer": "banaan", "result": null}
+{"prompt": "Het is iets wat toont hoe iets werkt of de verhoudingen tussen delen van een geheel, kunst, en computerapparatuur", "answer": "beeld", "result": null}
+{"prompt": "Het is een onderdeel van een kerkgebouw, een houtsoort, en een Nederlands televisiekok", "answer": "beuk", "result": null}
+{"prompt": "Het is een open ruimte zonder dak, een politieke centrum, en aan alle kanten omgeven door een of meerdere gebouwen", "answer": "binnenhof", "result": null}
+{"prompt": "Het is een fraai gekleurd voortplantingsorgaan, een Nederlandse band, en een graanproduct", "answer": "bloem", "result": null}
+{"prompt": "Het is oppervlaktewater, de Borst, en een deel van het hart", "answer": "boezem", "result": null}
+{"prompt": "Het is een type brug, een optisch verschijnsel in de atmosfeer, en een wapen", "answer": "boog", "result": null}
+{"prompt": "Het is een datastructuur, een plant, en een staaf horizontaal over een weg", "answer": "boom", "result": null}
+{"prompt": "Het is snoepgoed, een kunstwerk, en een onderdeel van een harnas", "answer": "borstplaat", "result": null}
+{"prompt": "Het is vuur, een Nederlands televisiepresentator, en een Nederlandse brouwerij", "answer": "brand", "result": null}
+{"prompt": "Het is een scheiding, onderdeel van rekenen, en een fractuur", "answer": "breuk", "result": null}
+{"prompt": "Het is iemand in een vereniging van mensen die met elkaar verbonden zijn, een broodgerecht, en een familielid", "answer": "broeder", "result": null}
+{"prompt": "Het is een type haar, een chocoladereep, en een materiaaleigenschap", "answer": "bros", "result": null}
+{"prompt": "Het is een Chemische binding, een bouwwerk, en term in de muziek", "answer": "brug", "result": null}
+{"prompt": "Het is een maaltijd, een Amerikaans effectenhandelaar, en een eetkamerkast", "answer": "buffet", "result": null}
+{"prompt": "Het is brood, een automodel, en een militaire rang", "answer": "cadet", "result": null}
+{"prompt": "Het is een ruimtelijke figuur, een onderdeel in een zuigermotor, en een soort sluitwerk", "answer": "cilinder", "result": null}
+{"prompt": "Het is iemand die betaalt voor goederen of diensten, iemand aan wie hulp wordt verleend, en een netwerksoftware", "answer": "client", "result": null}
+{"prompt": "Het is een sportberoep, een begeleider, en een beroep in het bedrijfsleven", "answer": "coach", "result": null}
+{"prompt": "Het is een versleuteling van gegevens, een reeks tekens in een postadres, en een computertaal", "answer": "code", "result": null}
+{"prompt": "Het is een manier om een onderwerp te onderwijzen, een type onderwijs in de Verenigde Staten, en een groep kiezers", "answer": "college", "result": null}
+{"prompt": "Het is een richtlijn voor uitvoering van handelingen, een militairterminologie, en een computerterminologie", "answer": "commando", "result": null}
+{"prompt": "Het is een opiniestuk, een beoordeling, en een onderdeel van programmeren", "answer": "commentaar", "result": null}
+{"prompt": "Het is verandering van seksuele geaardheid, overgang tot een godsdienst, en omzetten van een bestandsformaat", "answer": "conversie", "result": null}
+{"prompt": "Het is een huidsmeersel, een zuivelproduct, en een kleur", "answer": "crème", "result": null}
+{"prompt": "Het is iemand die verschillende waren opkoopt en aanbiedt, een casino, en een beurs", "answer": "dealer", "result": null}
+{"prompt": "Het is een supermarktketen uit Nederland, een televisieprogramma uit Nederland, en een etnische groep", "answer": "deen", "result": null}
+{"prompt": "Het is een gedeelte van een rivier, een letter, en onderdeel van het internationaal standaard spelalfabet", "answer": "delta", "result": null}
+{"prompt": "Het is een christelijke ceremonie, een handeling in het belang van een ander, en een instelling", "answer": "dienst", "result": null}
+{"prompt": "Het is een term in sport, het terrein van beroepsmatig toegepaste kennis, en het geheel van arbeidstaken", "answer": "discipline", "result": null}
+{"prompt": "Het is het verspreiden van goederen, de verdeling van de productie, en een verzameling van softwarecomponenten", "answer": "distributie", "result": null}
+{"prompt": "Het is een militaire eenheid, een voetbalcompetitie, en een typografisch element", "answer": "divisie", "result": null}
+{"prompt": "Het is een taxonomische rang, een gebied, en een privébezit", "answer": "domein", "result": null}
+{"prompt": "Het is cosmetica, iemand die is gehandicapt, en chocolade", "answer": "dove", "result": null}
+{"prompt": "Het is een kabel, een textielvezel, en een langwerpig buigzaam bevestigingsmiddel", "answer": "draad", "result": null}
+{"prompt": "Het is een personage uit de Fabeltjeskrant, een vogelsoorten, en een politicus die vrede propageert", "answer": "duif", "result": null}
+{"prompt": "Het is een lengtemaat, een personage uit sprookje, en een lichaamsdeel", "answer": "duim", "result": null}
+{"prompt": "Het is een mythisch wezen, een planeetsoort, en evolutionaire verschijnselen die leiden tot een afname van de omvang van soorten", "answer": "dwerg", "result": null}
+{"prompt": "Het is een type vliegtuig, een automodel, en een wild dier", "answer": "eend", "result": null}
+{"prompt": "Het is een soort start-up, een mythisch dier, en iets uit de stripverhalen van Kuifje", "answer": "eenhoorn", "result": null}
+{"prompt": "Het is een groep personen die muziek maakt, een film met verschillende verhaallijnen, en een soort musical", "answer": "ensemble", "result": null}
+{"prompt": "Het is een uitdrukking, een kunstbeweging, en een biologisch proces", "answer": "expressie", "result": null}
+{"prompt": "Het is een vrijstaande sculptuur, een fictief personage, en een visuele toelichting", "answer": "figuur", "result": null}
+{"prompt": "Het is een audiobewerking techniek, een auto-onderdeel, en een zeef", "answer": "filter", "result": null}
+{"prompt": "Het is een type zeilschip, een bierglas, en een muziekinstrument", "answer": "fluit", "result": null}
+{"prompt": "Het is een militaire tactiek, een groep muzikanten of een muziekensemble, en een kabinet in Nederland", "answer": "formatie", "result": null}
+{"prompt": "Het is een term in politiek, een nummersysteem, en een bestanddeel", "answer": "fractie", "result": null}
+{"prompt": "Het is een kooktechniek, gemaksvoeding, en een eetgelegenheid", "answer": "frituur", "result": null}
+{"prompt": "Het is een bijbehorende subcultuur, een bepaalde muziekstijl, en een vriend", "answer": "gabber", "result": null}
+{"prompt": "Het is een etiquette, een feest, en een appel", "answer": "gala", "result": null}
+{"prompt": "Het is een criminele groep, een manieren van beweging, en een deel van een diner", "answer": "gang", "result": null}
+{"prompt": "Het is een opslagplaats, een muziekgenre, en een werkplaats", "answer": "garage", "result": null}
+{"prompt": "Het is een verzameling herinneringen, de vermogen feiten te onthouden, en een onderdeel van een computer", "answer": "geheugen", "result": null}
+{"prompt": "Het is een sociale relaties tussen mensen, een seksuele daad, en een groep mensen die met elkaar leven", "answer": "gemeenschap", "result": null}
+{"prompt": "Het is een strijdmachtonderdeel, een mythisch wezen, en een intelligent iemand", "answer": "genie", "result": null}
+{"prompt": "Het is een vogel, een menselijke uiting van blijdschap, en een meststof", "answer": "gier", "result": null}
+{"prompt": "Het is een vrijheidsberoving, de zekerheid voor een dienst, en een civiel dwangmiddel", "answer": "gijzeling", "result": null}
+{"prompt": "Het is een onderdeel van aardewerk, een onderdeel van gebak, en een onderdeel van het gebit", "answer": "glazuur", "result": null}
+{"prompt": "Het is een afscherming, een scheidingslijn, en een huisinterieur", "answer": "gordijn", "result": null}
+{"prompt": "Het is een academisch concept, een temperatuurschaal, en een wiskundig concept", "answer": "graad", "result": null}
+{"prompt": "Het is een onderdeel van een inauguratieritueel, een eetbare plant of een deel ervan, en een dagvlinder", "answer": "groentje", "result": null}
+{"prompt": "Het is een kadaster, een kavel, en vastgoed", "answer": "grondgebied", "result": null}
+{"prompt": "Het is een munitie patroon, een type weer, en eten", "answer": "hagel", "result": null}
+{"prompt": "Het is een dansstijl, een beeldhouwtechniek, en een houtbewerkingtechniek", "answer": "hakken", "result": null}
+{"prompt": "Het is een onderdeel van het gebit, een lichaamsdeel, en een deel van een muziekinstrument", "answer": "hals", "result": null}
+{"prompt": "Het is een onderdeel van een oor, een onderdeel van een piano, en een gereedschap", "answer": "hamer", "result": null}
+{"prompt": "Het is een golfterminologie, een psychische aandoening, en een lichamelijke beperking", "answer": "handicap", "result": null}
+{"prompt": "Het is een onderdeel van zang, een soort orkest, en samenklinkend", "answer": "harmonie", "result": null}
+{"prompt": "Het is een volwassen mens van het mannelijke geslacht, een centrale figuur in christelijk geloof, en een adellijke titel", "answer": "heer", "result": null}
+{"prompt": "Het is een eigenschap van vloeistof, een eigenschap van licht, en een eigenschap van weer", "answer": "helderheid", "result": null}
+{"prompt": "Het is een vrouwelijke voornaam, een figuur uit de Griekse mythologie, en een single van Jack de Nijs", "answer": "helena", "result": null}
+{"prompt": "Het is een zeilschip, een paard, en een zandplaat", "answer": "hengst", "result": null}
+{"prompt": "Het is een beroep, een soort hond, en onderdeel van veeteelt", "answer": "herder", "result": null}
+{"prompt": "Het is een onderdeel van een dierenanatomie, een muziekinstrument, en een gehoor hulpmiddel", "answer": "hoorn", "result": null}
+{"prompt": "Het is een dynastie, een familie, en een gebouw", "answer": "huis", "result": null}
+{"prompt": "Het is een voedingsstof, een scheikundig element, en een soort gordijn", "answer": "ijzer", "result": null}
+{"prompt": "Het is een biologisch processen, plotseling, en onderdeel van elektriciteit", "answer": "impuls", "result": null}
+{"prompt": "Het is een onderdeel van muziek, een hulpmiddel voor het uitvoeren van bewerkingen, en een apparaat gebruikt voor wetenschappelijk onderzoek", "answer": "instrument", "result": null}
+{"prompt": "Het is een diafragma, een Griekse god, en een meisjesnaam", "answer": "iris", "result": null}
+{"prompt": "Het is een positie in zwerkbal, een alcoholische drank, en het opsporen, vervolgen, bemachtigen en doden", "answer": "jager", "result": null}
+{"prompt": "Het is een beroep in de hofhouding, een superschurk, en een speelkaart", "answer": "joker", "result": null}
+{"prompt": "Het is groot, een vliegtuigtype, en een supermarkt", "answer": "jumbo", "result": null}
+{"prompt": "Het is langwerpig en buigzaam, gemaakt van kunststof, en een leiding voor de transport van elektrische ladingen", "answer": "kabel", "result": null}
+{"prompt": "Het is een kast, een bestuursorgaan, en een meubilair", "answer": "kabinet", "result": null}
+{"prompt": "Het is een onderdeel van een woning, een Nederlandse volksvertegenwoordiging, en onderdeel van het hart en vaatstelsel", "answer": "kamer", "result": null}
+{"prompt": "Het is een onderdeel van spijsvertering, een onderdeel van YouTube, en een zeestraat", "answer": "kanaal", "result": null}
+{"prompt": "Het is een onderdeel van brood, een sprookje, en een kledingstuk", "answer": "kapje", "result": null}
+{"prompt": "Het is een eigenschap, een personage, en het kleinste deel van een tekst", "answer": "karakter", "result": null}
+{"prompt": "Het is een onderdeel van een oog, een ruimtelijke figuur, en een onderdeel van bowlen", "answer": "kegel", "result": null}
+{"prompt": "Het is een langgerekte groep bergen, een groep onder een gezamenlijk merk, en een reeks", "answer": "keten", "result": null}
+{"prompt": "Het is een bijnaam voor een inwoner, een fruit, en een single van Harry Styles", "answer": "kiwi", "result": null}
+{"prompt": "Het is een maatschappelijke onderverdeling, een taxonomische rang, en een onderdeel van openbaar vervoer", "answer": "klasse", "result": null}
+{"prompt": "Het is een onderdeel van de spijsvertering, een mond, en een hoofddeksel", "answer": "klep", "result": null}
+{"prompt": "Het is een type schoeisel, een instrument voor muziek, en een kano", "answer": "klepper", "result": null}
+{"prompt": "Het is een onderdeel van een kerkgebouw, een televisieprogramma uit Nederland, en een onderdeel van een fruit", "answer": "klokhuis", "result": null}
+{"prompt": "Het is een touw, een eenheid, en een onderdeel van kleding", "answer": "knoop", "result": null}
+{"prompt": "Het is een soort organisatie, een bouwkunst, en een ruimtelijke figuur", "answer": "koepel", "result": null}
+{"prompt": "Het is een onderdeel van verticaal transport, buisvormig, en een beschermdoos", "answer": "koker", "result": null}
+{"prompt": "Het is een schaakstuk, een staatshoofd, en een man", "answer": "koning", "result": null}
+{"prompt": "Het is een staatshoofd, een schaakstuk, en een insecten", "answer": "koningin", "result": null}
+{"prompt": "Het is een onderdeel van een brood, een lichaamsdeel, en een onderdeel van een schip", "answer": "kont", "result": null}
+{"prompt": "Het is een bed, een bevalling, en een mobiele wagen", "answer": "kraam", "result": null}
+{"prompt": "Het is een hijswerktuig, een Nederlands rapper, en een afvoer", "answer": "kraan", "result": null}
+{"prompt": "Het is een soort harddrug, een soort bureaucratie, en een  soort tranen", "answer": "krokodil", "result": null}
+{"prompt": "Het is een hoofdsieraad, een symbool van macht, en een munteenheid", "answer": "kroon", "result": null}
+{"prompt": "Het is een meubel, een onderdeel van een machine, en een hulpmiddel", "answer": "kruk", "result": null}
+{"prompt": "Het is een soort urinoir, een geschreven symbool, en een soort haar", "answer": "krul", "result": null}
+{"prompt": "Het is een gebouwencomplex, een mechanische puzzel, en een ruimtelijke figuur", "answer": "kubus", "result": null}
+{"prompt": "Het is een personages uit Donald Duck, een scheepstype, en een vogel", "answer": "kwak", "result": null}
+{"prompt": "Het is een kaartspel, een seksuele activiteit, en een groep van muzikanten", "answer": "kwartet", "result": null}
+{"prompt": "Het is een tijdseenheid, een type militair, en een gedeelte van een schild", "answer": "kwartier", "result": null}
+{"prompt": "Het is een gereedschap, een niet-alcoholische drank, en een kledingdecoratie", "answer": "kwast", "result": null}
+{"prompt": "Het is gedrukte informatie, een merk, en een onderdeel van metadata", "answer": "label", "result": null}
+{"prompt": "Het is een geestelijke, een dier, en een televisieprogramma van BNN", "answer": "lama", "result": null}
+{"prompt": "Het is een terrein van beroepsmatig toegepaste kennis, een materiaal uit dieren, en een trap", "answer": "leer", "result": null}
+{"prompt": "Het is een buis, een watergang, en een transport via pijplijnen", "answer": "leiding", "result": null}
+{"prompt": "Het is een onderdeel van fotografie, een structuur in het oog, en een onderdeel van telescoop", "answer": "lens", "result": null}
+{"prompt": "Het is een type bestuurseenheid, een onderdeel van mens of dier, en een driedimensionaal geometrisch object", "answer": "lichaam", "result": null}
+{"prompt": "Het is een mythische plaats, een onderdeel van christelijke mythologie, en een dansstijl", "answer": "limbo", "result": null}
+{"prompt": "Het is een onderdeel van een slot, een schaakstuk, en een soort vloerbedekking", "answer": "loper", "result": null}
+{"prompt": "Het is de grootte of omvang, een vriend, en een onderdeel van muziek", "answer": "maat", "result": null}
+{"prompt": "Het is een diersoort, een deel van het binnenste van de aarde, en een soort jas", "answer": "mantel", "result": null}
+{"prompt": "Het is een beeldhouwkunstwerk, een sieraad, en een onderscheiding", "answer": "medaillon", "result": null}
+{"prompt": "Het is een academische graad, een functie in het onderwijs, en een graad voor schakers", "answer": "meester", "result": null}
+{"prompt": "Het is iemand in het leger, een onderdeel van muziektheorie, en een samenhangend vakkenpakket", "answer": "mineur", "result": null}
+{"prompt": "Het is een vereenvoudigde representatie, een beroep, en een replica", "answer": "model", "result": null}
+{"prompt": "Het is een obelisk, een onderdeel van een kompas, en een onderdeel van haken", "answer": "naald", "result": null}
+{"prompt": "Het is een term uit fotografie, een elektrische lading, en een getal", "answer": "negatief", "result": null}
+{"prompt": "Het is een popgroep, een term uit strafrecht, en een term uit meteorologie", "answer": "noodweer", "result": null}
+{"prompt": "Het is een opmerking uit een tekst, een term uit muziektheorie, en een vrucht", "answer": "noot", "result": null}
+{"prompt": "Het is een volk, een soort schaats, en een deurgordijn", "answer": "noren", "result": null}
+{"prompt": "Het is een term uit wiskunde, een stelsel van hoe te leven, en een standaard", "answer": "norm", "result": null}
+{"prompt": "Het is een eerste bieding, een eerste zet, en een gat in een materiaal", "answer": "opening", "result": null}
+{"prompt": "Het is een koninklijke huis, een fruit, en een kleur", "answer": "oranje", "result": null}
+{"prompt": "Het is een taxonomische rang, een groep religieuzen met dezelfde devotie, en structuur", "answer": "orde", "result": null}
+{"prompt": "Het is een passeerplaats, een biologisch proces, en een astronomie verschijnsel", "answer": "overgang", "result": null}
+{"prompt": "Het is een mannelijke voornaam, een eenheid, en een oude computer", "answer": "pascal", "result": null}
+{"prompt": "Het is smeerbaar, een broodbeleg, en een deegwaar", "answer": "pasta", "result": null}
+{"prompt": "Het is een heilige, munitie, en een herkenbare regelmaat", "answer": "patroon", "result": null}
+{"prompt": "Het is een historische munteenheid, een beroepsgroep, en een onderscheidingsteken", "answer": "penning", "result": null}
+{"prompt": "Het is een onderdeel van een schietsport, een symbool, en een soort vuurwerk", "answer": "pijl", "result": null}
+{"prompt": "Het is een rookgerei, een muziekinstrument, en een waterafvoer", "answer": "pijp", "result": null}
+{"prompt": "Het is richtlijnen voor een gezond eetpatroon, een bouwwerk, en een ruimtelijke figuur", "answer": "piramide", "result": null}
+{"prompt": "Het is een harnasonderdeel, een stuk van het oppervlak van de Aarde, en een onderdeel van een oven", "answer": "plaat", "result": null}
+{"prompt": "Het is een beroep, een kringspier, en een onderdeel van een auto", "answer": "portier", "result": null}
+{"prompt": "Het is koolzuur, elektrische spanning, en inenting", "answer": "prik", "result": null}
+{"prompt": "Het is de zijkant, een bodemhorizont, en een verzameling van gegevens van een persoon", "answer": "profiel", "result": null}
+{"prompt": "Het is een onderdeel van een roeiboot, een onderdeel van een nagel, en een kledingaccessoire", "answer": "riem", "result": null}
+{"prompt": "Het is een taxonomische rang, een organisatie van een gemeenschap met eigen bestuur, en welstand", "answer": "rijk", "result": null}
+{"prompt": "Het is een chemische structuur, een wegtype, en een sieraad", "answer": "ring", "result": null}
+{"prompt": "Het is een literatuurgenre, een stijlperiode, en een filmgenre", "answer": "romantiek", "result": null}
+{"prompt": "Het is een onderdeel van een schip, een lichaamsdeel, en een onderdeel van een molen", "answer": "romp", "result": null}
+{"prompt": "Het is een strafkaart, een kleur, en een politieke richting", "answer": "rood", "result": null}
+{"prompt": "Het is een verhouding, een onderdeel van een ei, en een meetinstrument", "answer": "schaal", "result": null}
+{"prompt": "Het is een type zonwering, een constructie tegen geluid, en een meubelstuk", "answer": "scherm", "result": null}
+{"prompt": "Het is een onderdeel van evolutie, het zoeken van kandidaten, en een grafische gebruikersomgeving handeling", "answer": "selectie", "result": null}
+{"prompt": "Het is een term van zwemmen, een deel van een oorlog, en een term van honkbal", "answer": "slag", "result": null}
+{"prompt": "Het is een versterkt kasteel, ook wel burcht genoemd, een voormalig Nederlands voetballer en voetbaltrainer, en een onderdeel van een verhaal", "answer": "slot", "result": null}
+{"prompt": "Het is een druk, een term van elektriciteit, en een gemoedstoestand", "answer": "spanning", "result": null}
+{"prompt": "Het is een kat, een diersoort, en een textieltechniek", "answer": "spinnen", "result": null}
+{"prompt": "Het is het bovenste deel van een toren, een onderdeel van openbaar vervoer, en een type hond", "answer": "spits", "result": null}
+{"prompt": "Het is een gemeenschap van mensen, een plant, en een term uit taalkunde", "answer": "stam", "result": null}
+{"prompt": "Het is een onderscheiding, een hemellichaam, en een bekende Nederlander", "answer": "ster", "result": null}
+{"prompt": "Het is een regio, een windrichting, en een plagerige grap", "answer": "streek", "result": null}
+{"prompt": "Het is een leesteken, een Amerikaans actrice, en een wegmarkering", "answer": "streep", "result": null}
+{"prompt": "Het is een soort onderbroek, een term uit kwantummechanica, en een tekenreeks", "answer": "string", "result": null}
+{"prompt": "Het is kapot, een deel van iets, en een lekker ding", "answer": "stuk", "result": null}
+{"prompt": "Het is een dansstijl, een jazzstijl, en een term uit golf", "answer": "swing", "result": null}
+{"prompt": "Het is een stuk meubilair, een leefregel, en een rekenhulpmiddel", "answer": "tafel", "result": null}
+{"prompt": "Het is een symbool, een parasiet, en een signaal", "answer": "teken", "result": null}
+{"prompt": "Het is een telefoon, een vliegtuig, en een apparatuur", "answer": "toestel", "result": null}
+{"prompt": "Het is een schop, een subgenre van hiphop, en een draagbaar klimmaterieel", "answer": "trap", "result": null}
+{"prompt": "Het is vuilnis, een militaire eenheid, en een groep dieren", "answer": "troep", "result": null}
+{"prompt": "Het is een Machineonderdeel, een scheepstype, en een onderdeel van anatomie van vogels", "answer": "veer", "result": null}
+{"prompt": "Het is een onderdeel van Windows, een onderdeel van scouting, en een onderdeel van een kabinetsformatie", "answer": "verkenner", "result": null}
+{"prompt": "Het is een eigenschap van kleur, een eigenschap van zuurstof, en een oplossing", "answer": "verzadiging", "result": null}
+{"prompt": "Het is een politieke alliantie, een eenheid, en een automodel", "answer": "volt", "result": null}
+{"prompt": "Het is een schoonmaak object, een buik, en een instrument", "answer": "wasbord", "result": null}
+{"prompt": "Het is het stijgen van water, een schoonmakentechniek, en een kaartterm", "answer": "wassen", "result": null}
+{"prompt": "Het is een medische term, een elektronische component, en een type verzet", "answer": "weerstand", "result": null}
+{"prompt": "Het is een winkel, een bedrijf, en een juridisch begrip", "answer": "zaak", "result": null}
+{"prompt": "Het is een ondersteunend voorwerp, een bergpas, en een fietsonderdeel", "answer": "zadel", "result": null}
+{"prompt": "Het is een onderdeel van een molen, een onderdeel van een schip, en een type vloerbedekking", "answer": "zeil", "result": null}
+{"prompt": "Het is een lid van een kloosterorde, een verzorger, en een familielid", "answer": "zuster", "result": null}
+{"prompt": "Het is een onderdeel van een zeilboot, een wapen, en een tarot", "answer": "zwaard", "result": null}
+{"prompt": "Het is een werktuig, een letsel, en een muziekinstrument", "answer": "zweepslag", "result": null}
