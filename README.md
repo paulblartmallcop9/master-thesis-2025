@@ -43,9 +43,9 @@ Each step in the pipeline corresponds to a Python script that saves the data int
 | `get_pages.py`       | `all_pages.txt`                 | Getting disambiguation pages titles          |
 | `get_contents.py`    | `all_content.txt`               | Get disambiguation pages HTML content        |
 | `get_links.py`       | `all_links.txt`                 | Get related pages links from HTML content    |
-| `filter1.py`         | `all_filtered1.txt`             | Filter disambiguation pages on page titles   |
+| `filter1.py`         | `all_filtered1.txt`             | Filter disambiguation pages on disambiguation page titles   |
 | `get_aspects.py`     | `all_aspects.txt`               | Extract aspects from related pages           |
-| `filter2.py`         | `all_filtered2.txt`             | Filter disambiguation pages on related aspects |
+| `filter2.py`         | `all_filtered2.txt`             | Filter disambiguation pages on related page aspects |
 | `annotations_out.py` | `all_annotations_out.tsv`       | Export data to file for annotation           |
 | `annotations_in.py`  | `all_annotations_in.txt`        | Import annotation file with selected clues   |
 | `create_puzzles.py`  | `test_puzzles.txt`, `dev_puzzles.txt`, … | Creating puzzles                    |
