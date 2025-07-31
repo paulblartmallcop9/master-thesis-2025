@@ -74,7 +74,7 @@ The repository includes three Jupyter notebooks for running experiments with dif
 
 ### Usage
 
-1. Open the chosen Jupyter Notebook file:
+1. Open the chosen Jupyter Notebook file.
 2. Configure your environment:
 
    * **API notebook:** Set your `OPENAI_API_KEY` before running cells.
