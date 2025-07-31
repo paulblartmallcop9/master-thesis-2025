@@ -58,7 +58,7 @@ python3 pipeline/<script_name.py>
 
 ## Experiments
 
-The repository includes three Jupyter notebooks for running experiments with different model providers. Each notebook allows you to manually select model and shot configuration via in-line comments.
+The repository includes three Jupyter notebooks for running experiments with different model providers. Each notebook allows you to manually select model and shot configuration denoted via in-line comments.
 
 | Notebook                       | Description                          | Requirements                      | 
 | ------------------------------ | ------------------------------------ | --------------------------------- | 
