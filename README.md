@@ -36,7 +36,7 @@ If you only need to run the steps after annotation, start the script with the `y
 
 ### Scripts
 
-Each step in the pipeline corresponds to a Python script that saves the data intermediate and can also be run on its own:
+Each step in the pipeline corresponds to a Python script. The scripts save the data intermediate and each step uses the output of the previous script.
 
 | Script               | Output                            | Description                                  |
 | -------------------- | ------------------------------- | -------------------------------------------- |
