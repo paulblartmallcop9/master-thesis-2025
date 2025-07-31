@@ -88,7 +88,7 @@ The repository includes three Jupyter notebooks for running experiments with dif
 The data can be evaluated using the `human_evaluation.py` file for the human evaluation and the `order_evaluation.py` file for the order evaluation.
 
 ### Human evaluation
-Compare human agreement data against model predictions and categorize instances into:
+Compare human annotation or agreement data against model predictions and categorize instances into:
  - Both correct
  - Model correct only
  - Human correct only
