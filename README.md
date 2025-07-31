@@ -50,7 +50,7 @@ Each step in the pipeline corresponds to a Python script. The scripts save the d
 | `annotations_in.py`  | `all_annotations_in.txt`        | Import annotation file with selected clues   |
 | `create_puzzles.py`  | `test_puzzles.txt`, `dev_puzzles.txt`, … | Create puzzles                    |
 
-Run any script standalone using:
+To execute any script standalone, run:
 
 ```bash
 python3 pipeline/<script_name.py>
